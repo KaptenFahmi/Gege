@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const userNameInput = document.getElementById('userName');
     const quizHeader = document.getElementById('quiz-header');
     const resultDiv = document.getElementById('result');
-    const backgroundSong = document.getElementById('background-song');
+    const backgroundSong = document.getElementById('interstellar.mp3');
 
     // Kunci Jawaban (sesuai dengan nilai 'value' pada input radio di HTML)
     const correctAnswers = {
